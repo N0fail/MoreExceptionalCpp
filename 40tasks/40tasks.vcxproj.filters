@@ -24,12 +24,18 @@
     <ClCompile Include="task2.cpp">
       <Filter>Resource Files</Filter>
     </ClCompile>
+    <ClCompile Include="task5.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="task1.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="task2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="task5.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
